@@ -8,7 +8,7 @@ Install:
 go get github.com/cheekybits/genny
 ```
 
-=====
+---
 
 (pron. Jenny) by Mat Ryer ([@matryer](https://twitter.com/matryer)) and Tyler Bunnell ([@TylerJBunnell](https://twitter.com/TylerJBunnell)).
 
