@@ -2,10 +2,13 @@
 
 [![Build Status](https://travis-ci.org/cheekybits/genny.svg?branch=master)](https://travis-ci.org/cheekybits/genny) [![GoDoc](https://godoc.org/github.com/cheekybits/genny/parse?status.png)](http://godoc.org/github.com/cheekybits/genny/parse)
 
+This fork adds go doc documentation and makes genny conforming to proposal
+github.com/golang/go/issues/13560.
+
 Install:
 
 ```
-go get github.com/cheekybits/genny
+go get github.com/D1CED/genny
 ```
 
 ---
