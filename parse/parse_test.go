@@ -67,6 +67,7 @@ var tests = []struct {
 	{
 		filename: "generic_simplemap.go",
 		in:       `test/multipletypesets/generic_simplemap.go`,
+		// {"KeyType": "int,float64", "ValueType": "string,bool"}
 		types: []map[string]string{
 			{"KeyType": "int", "ValueType": "string"},
 			{"KeyType": "float64", "ValueType": "bool"},
